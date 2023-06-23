@@ -3,4 +3,4 @@
 ## Resume
 
 ## Developers
-Joao and Joao
+Joao F. and Joao P.

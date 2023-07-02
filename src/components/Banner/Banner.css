@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap');
+
+.banner{    
+    margin: 10px 5px;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-evenly;    
+    align-items: center;
+    background-color: #1F598C;
+    max-width: 100%;
+
+}
+
+.banner img{
+    max-width: 100%;
+    box-shadow: 10px 10px 32px rgba(0, 0, 0, 0.514);
+}
+
+.banner p {
+    width: 400px;
+    color: #4d6763;
+    margin-left: 10px;
+    background-color: #F2E1AE;
+    padding: 20px;
+    font-family: 'Kelly Slab', cursive;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 50px;
+    font-variant-caps: all-small-caps;
+    box-shadow: 10px 10px 32px rgba(0, 0, 0, 0.514);
+}
